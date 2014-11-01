@@ -182,10 +182,10 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'u220971290_umuge',
-      'username' => 'u220971290_uhuju',
-      'password' => 'uragegeLyZ',
-      'host' => 'mysql.main-hosting.com',
+      'database' => 'drupal',
+      'username' => 'root',
+      'password' => '',
+      'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
